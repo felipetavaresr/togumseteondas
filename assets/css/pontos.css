@@ -6,7 +6,7 @@
   padding-right: 10px;
   padding-left: 10px;
   
-  margin-top: 8rem;
+  margin-top: 1rem;
 
 
 }
@@ -43,7 +43,6 @@
   text-align: center;
   color: #000;
   font-size: 3rem;
-  
 }
 
 .text__direita h2 {
@@ -56,6 +55,11 @@
   font-size: 16px;
   align-items: center;
   text-align: center;
+}
+
+.manutencao {
+  text-align: center;
+  padding-top: 50px;
 }
 
 
